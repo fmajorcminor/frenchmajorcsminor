@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frenchmajorcsminor
+- 👋 Hi, I’m Dallin!
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning penetration testing methods and how to become an ethical hacker
 - 💞️ I’m looking to collaborate on security-related projects
